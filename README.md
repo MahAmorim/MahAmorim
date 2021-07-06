@@ -34,7 +34,7 @@
 [<img align="center" src="https://img.shields.io/badge/-Robot Framework-000000?logo=RobotFramework&logoColor=white&style=flat" style="max-width:100%;">](https://robotframework.org/)
 [<img align="center" src="https://img.shields.io/badge/-Selenium-43B02A?logo=Selenium&logoColor=white&style=flat" style="max-width:100%;">](https://www.selenium.dev/)
 [<img align="center" src="https://img.shields.io/badge/-Cucumber-23D96C?logo=Cucumber&logoColor=white&style=flat" style="max-width:100%;">](https://cucumber.io/)
-[<img align="center" src="https://img.shields.io/badge/-Apache JMeter-D22128?logo=Apache JMeter&logoColor=white&style=flat" style="max-width:100%;">](https://jmeter.apache.org/)
+[<img align="center" src="https://img.shields.io/badge/-Apache JMeter-D22128?logo=ApacheJMeter&logoColor=white&style=flat" style="max-width:100%;">](https://jmeter.apache.org/)
 
 [<img align="center" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" style="max-width:100%;">](https://www.typescriptlang.org)
 [<img align="center" src="https://img.shields.io/badge/-NodeJs-339933?logo=node.js&logoColor=white&style=flat" style="max-width:100%;">](https://nodejs.org/en/)
