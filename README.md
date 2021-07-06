@@ -1,5 +1,60 @@
 ### Hi there 👋
 
+#### I'm MahAmorim, a systems analysis and development student and a lover of ✨technology✨ and ✨adventures✨.
+
+Welcome to my GitHub!
+
+<!-- Where i found the icons: https://simpleicons.org -->
+
+### A little of what I've been doing around here:
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mahamorim&count_private=true&show_icons=true&theme=white&locale=en&line_height=20) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahamorim&layout=compact&count_private=true&theme=white&locale=en)
+
+### Some languages and technologies that I'm learning and like
+
+[<img align="center" src="https://img.shields.io/badge/-Cypress-FFFFFF?logo=cypress&logoColor=17202C&style=flat" style="max-width:100%;">](https://www.cypress.io)
+[<img align="center" src="https://img.shields.io/badge/-JavaScript-323330?logo=javascript&style=flat" style="max-width:100%;">](https://www.javascript.com)
+[<img align="center" src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white&style=flat" style="max-width:100%;">](https://www.postman.com/)
+[<img align="center" src="https://img.shields.io/badge/-Azure DevOps-0078D7?logo=AzureDevOps&logoColor=white&style=flat" style="max-width:100%;">](https://azure.microsoft.com/pt-br/services/devops/)
+
+[<img align="center" src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=flat" style="max-width:100%;">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img align="center" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" style="max-width:100%;">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img align="center" src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat" style="max-width:100%;">](https://www.learn-c.org)
+[<img align="center" src="https://img.shields.io/badge/-C++-4B0082?logo=cplusplus&logoColor=white&style=flat" style="max-width:100%;">](https://www.cplusplus.com)
+[<img align="center" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" style="max-width:100%;">](https://www.mysql.com)
+
+### Some of the things I do in my daily life at the company as Quality Assurance Member:
+
+**Perform manual and automated tests on systems:
+ --web in different browsers 💻,
+ --mobile (Andorid-IOs) 📱,
+ 
+**Find and report bugs 🐛🐞,
+
+**Experience in developing and executing test cases 👩‍💻,
+
+**Elaboration of suggestions for improvements in the Systems development processes 🧪,
+
+**Practice tracking bug fixes with the developer team 🤜🤛,
+
+**Alignment of expectations with the customer 🤝,
+
+**Knowledge in Agile process methodologies such as Scrum 🚀,
+
+**Daily use of management tools such as Devops Azure 💼 ,
+
+**Currently studying for CTFL certification from ISTQB and improving on test automation 📖🎓.
+
+
+## Let's talk! 📫
+
+<!-- Contacts -->
+
+[<img align="center" alt="MahAmorim-linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">](https://www.linkedin.com/in/amorim-marcela/)
+[<img align="center" alt="MahAmorim-instagram" height="30" width="30" src="https://image.flaticon.com/icons/png/512/733/733558.png" style="max-width:100%;">](https://www.instagram.com/mah.amorim01/)
+[<img align="center" alt="MahAmorim-email" height="35" width="35" src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Gmail-icon.png" style="max-width:100%;">](mailto:amorimmjg@gmail.com?subject=Contato%20pelo%20Github)
+
+
 <!--
 **MahAmorim/MahAmorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
