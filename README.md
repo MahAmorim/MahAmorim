@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 #### I'm MahAmorim, a systems analysis and development student and a lover of ✨technology✨ and ✨adventures✨.
-
-Welcome to my GitHub!
+#### Welcome to my GitHub!
 
 <!-- Where i found the icons: https://simpleicons.org -->
 
