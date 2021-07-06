@@ -49,8 +49,8 @@
 
 
 - [x] Perform manual and automated tests on systems:
-       --web in different browsers 💻,
-       --mobile (Andorid-IOs) 📱,
+      * web in different browsers 💻,
+      * mobile (Andorid-IOs) 📱,
  
 - [x] Find and report bugs 🐛🐞,
 
