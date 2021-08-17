@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm MahAmorim, a systems analysis and development student and a lover of ✨technology✨ and ✨adventures✨.
+#### I'm MahAmorim, a systems analysis and development student and a lover of ✨technology✨ and ✨challenges✨.
 #### Welcome to my GitHub!
 
 <!-- Where i found the icons: https://simpleicons.org -->
