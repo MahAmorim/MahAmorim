@@ -8,8 +8,11 @@
 
 ### A little of what I've been doing around here:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mahamorim&count_private=true&show_icons=true&theme=white&locale=en&line_height=20) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahamorim&layout=compact&count_private=true&theme=white&locale=en)
-
+<div align="center">
+  <a href="https://https://github.com/MahAmorim">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahamorim&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamorim&layout=compact&count_private=true&theme=codeSTACKr&locale=en"/>
+</div>
 
 ### Some languages and technologies that I'm learning and like (Development & QA): 🌱
 
@@ -74,7 +77,7 @@
 <!-- Contacts -->
 
 [<img align="center" alt="MahAmorim-linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">](https://www.linkedin.com/in/amorim-marcela/)
-[<img align="center" alt="MahAmorim-instagram" height="30" width="30" src="https://image.flaticon.com/icons/png/512/733/733558.png" style="max-width:100%;">](https://www.instagram.com/mah.amorim01/)
+[<img align="center" alt="MahAmorim-instagram" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="max-width:100%;">](https://www.instagram.com/mah.amorim01/)
 [<img align="center" alt="MahAmorim-email" height="35" width="35" src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Gmail-icon.png" style="max-width:100%;">](mailto:amorimmjg@gmail.com?subject=Contato%20pelo%20Github)
 
 
