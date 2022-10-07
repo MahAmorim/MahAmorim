@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://https://github.com/MahAmorim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahamorim&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamorim&layout=compact&count_private=true&theme=codeSTACKr&locale=en"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamorim&layout=compact&langs_count=8&theme=codeSTACKr&locale=en"/>
 </div>
 
 ### Some languages and technologies that I'm learning and like (Development & QA): 🌱
