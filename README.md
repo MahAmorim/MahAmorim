@@ -18,6 +18,7 @@
 
 [<img align="center" src="https://img.shields.io/badge/-Cypress-FFFFFF?logo=cypress&logoColor=17202C&style=flat" style="max-width:100%;">](https://www.cypress.io)
 [<img align="center" src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white&style=flat" style="max-width:100%;">](https://www.postman.com/)
+[<img align="center" src="https://img.shields.io/badge/-Robot Framework-000000?logo=RobotFramework&logoColor=white&style=flat" style="max-width:100%;">](https://robotframework.org/)
 [<img align="center" src="https://img.shields.io/badge/-Azure DevOps-0078D7?logo=AzureDevOps&logoColor=white&style=flat" style="max-width:100%;">](https://azure.microsoft.com/pt-br/services/devops/)
 [<img align="center" src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=flat" style="max-width:100%;">](https://www.figma.com/)
 
@@ -33,8 +34,6 @@
 
 
 ### Some languages and technologies that I want learn : 
-
-[<img align="center" src="https://img.shields.io/badge/-Robot Framework-000000?logo=RobotFramework&logoColor=white&style=flat" style="max-width:100%;">](https://robotframework.org/)
 [<img align="center" src="https://img.shields.io/badge/-Selenium-43B02A?logo=Selenium&logoColor=white&style=flat" style="max-width:100%;">](https://www.selenium.dev/)
 [<img align="center" src="https://img.shields.io/badge/-Cucumber-23D96C?logo=Cucumber&logoColor=white&style=flat" style="max-width:100%;">](https://cucumber.io/)
 [<img align="center" src="https://img.shields.io/badge/-Apache JMeter-D22128?logo=ApacheJMeter&logoColor=white&style=flat" style="max-width:100%;">](https://jmeter.apache.org/)
