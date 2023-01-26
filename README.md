@@ -76,7 +76,7 @@
 <!-- Contacts -->
 
 [<img align="center" alt="MahAmorim-linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">](https://www.linkedin.com/in/amorim-marcela/)
-[<img align="center" alt="MahAmorim-instagram" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="max-width:100%;">](https://www.instagram.com/mah.amorim01/)
+[<img align="center" alt="MahAmorim-instagram" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="max-width:100%;">](https://www.instagram.com/_marcela.gomes_/)
 [<img align="center" alt="MahAmorim-email" height="35" width="35" src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Gmail-icon.png" style="max-width:100%;">](mailto:amorimmjg@gmail.com?subject=Contato%20pelo%20Github)
 
 
