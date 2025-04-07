@@ -82,7 +82,7 @@ I love sharing knowledge and being part of initiatives that empower other women 
 
 ## 📫 Let's talk!
 
-_“If there’s something strange in your system… **how** you gonna call?”_
+_"If there's something strange in your system... who you gonna call?"_
 
 [<img alt="MahAmorim-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/amorim-marcela/)
 [<img alt="MahAmorim-instagram" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">](https://www.instagram.com/qa.marcelaamorim/)
