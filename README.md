@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm **MahAmorim** — but in the testing universe, you can call me **The BugBuster Lady!**  
 Welcome to my GitHub — where **testing meets storytelling**, **community meets code**, and bugs… well, **they get busted** 👻🔧.
@@ -24,11 +24,30 @@ I love sharing knowledge and being part of initiatives that empower other women 
 - Simple applications created for automation practice and QA logic training  
 - Actively participating in events, mentorships, and tech community challenges
 
+  
 ## 🧰 Languages and Tools
 
-**Languages:** JavaScript · Java · Python · C · HTML · CSS  
-**Testing Tools:** Cypress · Selenium · Robot Framework · Postman · JMeter · Cucumber  
-**Others:** React · Node.js · Azure DevOps · Figma · MySQL · PostgreSQL · AWS · Azure
+**Languages**:  
+[<img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48">](https://www.javascript.com)  &nbsp; 
+[<img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" width="48" height="48">](https://www.java.com)  &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48">](https://www.python.org)
+
+**Testing Tools**:  
+[<img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" width="48" height="48">](https://www.cypress.io)  &nbsp; 
+[<img src="https://www.svgrepo.com/show/354321/selenium.svg" width="48" height="48">](https://www.selenium.dev)  &nbsp; 
+[<img src="https://www.svgrepo.com/show/374049/robotframework.svg" width="65" height="48">](https://robotframework.org)  &nbsp; 
+[<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48" height="48">](https://www.postman.com)  &nbsp; 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Apache_JMeter.png" width="110" height="48">](https://jmeter.apache.org)  &nbsp; 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1200px-K6-logo.svg.png" width="48" height="48">](https://k6.io)  &nbsp; 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Playwright_Logo.svg" width="130" height="48">](https://playwright.dev)
+
+**Others**:  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" width="40" height="48">](https://www.figma.com)  &nbsp; 
+[<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="90" height="48">](https://www.mysql.com)  &nbsp; 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="48" height="48">](https://www.postgresql.org)  &nbsp; 
+[<img src="https://logohistory.net/wp-content/uploads/2023/06/AWS-Emblem.png" width="90" height="48">](https://aws.amazon.com)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" width="48" height="48">](https://azure.microsoft.com)
+
 
 ## 👩‍💻 My day-to-day as a QA
 
@@ -39,15 +58,29 @@ I love sharing knowledge and being part of initiatives that empower other women 
 - Participate in agile ceremonies focused on continuous improvement  
 - Always studying, mentoring, and sharing to grow together
 
-## 🏆 Some GitHub Achievements
+## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahamorim&theme=onestar&margin-w=10&row=2&column=3" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamorim&layout=compact&langs_count=6&theme=codeSTACKr" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamorim&theme=tokyonight&hide_border=true" />
 </div>
 
-## 📫 Who you gonna call?
+
+## 🧠 GitHub Summary Cards
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahamorim&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahamorim&theme=tokyonight" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahamorim&theme=onestar&no-bg=true&no-frame=true&margin-w=10&row=1&column=6" />
+</div>
+
+
+<br>
+
+## 📫 Let's talk!
 
 _“If there’s something strange in your system… **how** you gonna call?”_
 
